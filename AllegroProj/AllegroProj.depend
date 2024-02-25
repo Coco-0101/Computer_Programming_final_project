@@ -1,0 +1,948 @@
+# depslib dependency file v1.0
+1669486990 source:d:\download\allegroproj\untitled1.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alplatf.h
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alandroidcfg.h
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\alunix.h
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\color.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\config.h
+	"allegro5/file.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\error.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1671356390 d:\allegrolib_5.2.8\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\keycodes.h
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1671356388 d:\allegrolib_5.2.8\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\alcompat.h
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1669534918 source:d:\download\allegroproj\main.c
+	"head.h"
+
+1669534395 d:\download\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1669534122 source:d:\download\allegroproj\ball.c
+	"head.h"
+
+1669534503 source:d:\download\allegroproj\moveball.c
+	"head.h"
+
+1669534122 source:d:\download\program\c\allegroproj\ball.c
+	"head.h"
+
+1670418295 d:\download\program\c\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+
+1670651338 source:d:\download\program\c\allegroproj\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1670422672 source:d:\download\program\c\allegroproj\moveball.c
+	"head.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1669534122 source:e:\downloads\選單\allegroproj\ball.c
+	"head.h"
+
+1670872776 e:\downloads\選單\allegroproj\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1671000117 source:e:\downloads\選單\allegroproj\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"head.h"
+
+1670422672 source:e:\downloads\選單\allegroproj\moveball.c
+	"head.h"
+
+1670872800 source:e:\downloads\選單\allegroproj\abcde.c
+	"head.h"
+
+1670852836 e:\downloads\選單\allegroproj\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1670875617 source:e:\downloads\選單\allegroproj\avg&sd.c
+	"head.h"
+
+1670861383 source:e:\downloads\選單\allegroproj\print_scores.c
+	"head.h"
+
+1670866332 source:e:\downloads\選單\allegroproj\class_avg_and_sd.c
+	"head.h"
+
+1670861835 source:e:\downloads\選單\allegroproj\generate_new_data.c
+	"head.h"
+
+1670861383 source:e:\downloads\選單\allegroproj\individual.c
+	"head.h"
+
+1670864698 source:e:\downloads\選單\allegroproj\main (2).c
+	"head.h"
+
+1670861383 source:e:\downloads\選單\allegroproj\rank.c
+	"head.h"
+
+1670861383 source:e:\downloads\選單\allegroproj\readtxt.c
+	"head.h"
+
+1670861794 source:e:\downloads\選單\allegroproj\writetxt.c
+	"head.h"
+
+1654507522 d:\allegrolib_5.2.8\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1654507523 d:\allegrolib_5.2.8\include\allegro5\allegro_color.h
+	"allegro5/allegro.h"
+
+1670232728 e:\downloads\選單\allegroproj\common.c
+	<stdio.h>
+	<stdarg.h>
+	"allegro5/allegro_android.h"
+	"allegro5/allegro_native_dialog.h"
+
+1670872800 source:d:\download\program\c\allegropro123j\allegroproj\abcde.c
+	"head.h"
+
+1671029908 d:\download\program\c\allegropro123j\allegroproj\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1670875617 source:d:\download\program\c\allegropro123j\allegroproj\avg&sd.c
+	"head.h"
+
+1671029858 source:d:\download\program\c\allegropro123j\allegroproj\class_avg_and_sd.c
+	"head.h"
+
+1670861835 source:d:\download\program\c\allegropro123j\allegroproj\generate_new_data.c
+	"head.h"
+
+1670861383 source:d:\download\program\c\allegropro123j\allegroproj\individual.c
+	"head.h"
+
+1670864698 source:d:\download\program\c\allegropro123j\allegroproj\main (2).c
+	"head.h"
+
+1671029826 source:d:\download\program\c\allegropro123j\allegroproj\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"head.h"
+
+1670861383 source:d:\download\program\c\allegropro123j\allegroproj\print_scores.c
+	"head.h"
+
+1670861383 source:d:\download\program\c\allegropro123j\allegroproj\rank.c
+	"head.h"
+
+1670861383 source:d:\download\program\c\allegropro123j\allegroproj\readtxt.c
+	"head.h"
+
+1670861794 source:d:\download\program\c\allegropro123j\allegroproj\writetxt.c
+	"head.h"
+
+1670872800 source:d:\download\program\allegroproj\allegroproj\abcde.c
+	"head.h"
+
+1671116087 d:\download\program\allegroproj\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1670875617 source:d:\download\program\allegroproj\allegroproj\avg&sd.c
+	"head.h"
+
+1671029858 source:d:\download\program\allegroproj\allegroproj\class_avg_and_sd.c
+	"head.h"
+
+1670861835 source:d:\download\program\allegroproj\allegroproj\generate_new_data.c
+	"head.h"
+
+1670861383 source:d:\download\program\allegroproj\allegroproj\individual.c
+	"head.h"
+
+1670861383 source:d:\download\program\allegroproj\allegroproj\readtxt.c
+	"head.h"
+
+1670861794 source:d:\download\program\allegroproj\allegroproj\writetxt.c
+	"head.h"
+
+1671116522 source:d:\download\program\allegroproj\allegroproj\main.c
+	"head.h"
+
+1671111589 source:d:\download\program\allegroproj\allegroproj\init_value.c
+	"head.h"
+
+1671111589 source:d:\download\program\allegroproj\allegroproj\startfunc.c
+	"head.h"
+
+1671114470 source:d:\download\program\allegroproj\allegroproj\menu.c
+	"head.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1671356386 d:\allegrolib_5.2.8\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1672066907 source:d:\desktop\a1095131_1205\allegroproj\abcde.c
+	"head.h"
+
+1673352345 d:\desktop\a1095131_1205\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\avg&sd.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\class_avg_and_sd.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\generate_new_data.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\individual.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\init_value.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\main.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\menu.c
+	"head.h"
+
+1673352322 source:d:\desktop\a1095131_1205\allegroproj\readtxt.c
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\startfunc.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205\allegroproj\writetxt.c
+	"head.h"
+
+1673357924 source:d:\desktop\a1095131_1205 - copy\allegroproj\menu.c
+
+1673669224 source:d:\desktop\a1095131_1205 - copy\allegroproj\init_value.c
+	"head.h"
+
+1673670568 d:\desktop\a1095131_1205 - copy\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673671210 source:d:\desktop\a1095131_1205 - copy\allegroproj\startfunc.c
+	"head.h"
+
+1673670597 source:d:\desktop\a1095131_1205 - copy\allegroproj\main.c
+	"head.h"
+
+1672066907 source:d:\desktop\a1095131_1205 - copy\allegroproj\abcde.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205 - copy\allegroproj\avg&sd.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205 - copy\allegroproj\class_avg_and_sd.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205 - copy\allegroproj\generate_new_data.c
+	"head.h"
+
+1672066908 source:d:\desktop\a1095131_1205 - copy\allegroproj\individual.c
+	"head.h"
+
+1673352322 source:d:\desktop\a1095131_1205 - copy\allegroproj\readtxt.c
+
+1672066908 source:d:\desktop\a1095131_1205 - copy\allegroproj\writetxt.c
+	"head.h"
+
+1673671148 source:d:\desktop\a1095131_1205 - copy\allegroproj\click_button.c
+	"head.h"
+
+1673694679 source:d:\download\program\game_menu\allegroproj\click_button.c
+	"head.h"
+
+1673696992 d:\download\program\game_menu\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673695872 source:d:\download\program\game_menu\allegroproj\init_value.c
+	"head.h"
+
+1673695136 source:d:\download\program\game_menu\allegroproj\main.c
+	"head.h"
+
+1673357926 source:d:\download\program\game_menu\allegroproj\menu.c
+
+1673690338 source:d:\download\program\game_menu\allegroproj\startfunc.c
+	"head.h"
+
+1673696172 source:d:\download\program\game_menu\allegroproj\draw_monster.c
+	"head.h"
+
+1673623744 source:d:\download\program\game_menu\allegroproj\random_ghost.c
+	"head.h"
+
+1673690241 source:d:\download\program\game_menu\allegroproj\draw_mouse.c
+	"head.h"
+
+1673689796 source:d:\download\program\game_menu\allegroproj\startgame.c
+
+1673699308 source:d:\download\program\game_menu\allegroproj\start_game.c
+	"head.h"
+
+1673694367 source:d:\download\program\game_menu\allegroproj\monster_run.c
+	"head.h"
+
+1673712281 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\click_button.c
+	"head.h"
+
+1673712281 c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\draw_monster.c
+	"head.h"
+
+1673712327 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\init_value.c
+	"head.h"
+
+1673708676 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\main.c
+	"head.h"
+
+1673357926 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\menu.c
+
+1673694367 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\monster_run.c
+	"head.h"
+
+1673710287 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\random_ghost.c
+	"head.h"
+
+1673711647 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\start_game.c
+	"head.h"
+
+1673711935 source:c:\users\scj85\downloads\game_menu2\game_menu\allegroproj\startfunc.c
+	"head.h"
+
+1673716893 source:d:\download\program\merged\allegroproj\click_button.c
+	"head.h"
+
+1673761091 d:\download\program\merged\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:d:\download\program\merged\allegroproj\draw_monster.c
+	"head.h"
+
+1673760949 source:d:\download\program\merged\allegroproj\init_value.c
+	"head.h"
+
+1673761062 source:d:\download\program\merged\allegroproj\main.c
+	"head.h"
+
+1673694367 source:d:\download\program\merged\allegroproj\monster_run.c
+	"head.h"
+
+1673723117 source:d:\download\program\merged\allegroproj\random_ghost.c
+	"head.h"
+
+1673760949 source:d:\download\program\merged\allegroproj\start_game.c
+	"head.h"
+
+1673758890 source:d:\download\program\merged\allegroproj\startfunc.c
+	"head.h"
+
+1673716893 source:d:\download\program\merged\allegroprojtest\allegroproj\click_button.c
+	"head.h"
+
+1673771386 d:\download\program\merged\allegroprojtest\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:d:\download\program\merged\allegroprojtest\allegroproj\draw_monster.c
+	"head.h"
+
+1673764065 source:d:\download\program\merged\allegroprojtest\allegroproj\init_value.c
+	"head.h"
+
+1673768677 source:d:\download\program\merged\allegroprojtest\allegroproj\main.c
+	"head.h"
+
+1673694367 source:d:\download\program\merged\allegroprojtest\allegroproj\monster_run.c
+	"head.h"
+
+1673723117 source:d:\download\program\merged\allegroprojtest\allegroproj\random_ghost.c
+	"head.h"
+
+1673768894 source:d:\download\program\merged\allegroprojtest\allegroproj\start_game.c
+	"head.h"
+
+1673758890 source:d:\download\program\merged\allegroprojtest\allegroproj\startfunc.c
+	"head.h"
+
+1673716893 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\click_button.c
+	"head.h"
+
+1673798290 d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\draw_monster.c
+	"head.h"
+
+1673798290 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\init_value.c
+	"head.h"
+
+1673798290 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\main.c
+	"head.h"
+
+1673694367 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\monster_run.c
+	"head.h"
+
+1673723117 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\random_ghost.c
+	"head.h"
+
+1673799336 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\start_game.c
+	"head.h"
+
+1673797802 source:d:\download\program\merged\allegroprojtest\allegroproj1\allegroproj\startfunc.c
+	"head.h"
+
+1673716893 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\click_button.c
+	"head.h"
+
+1673803094 d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\draw_monster.c
+	"head.h"
+
+1673802392 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\init_value.c
+	"head.h"
+
+1673723117 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\random_ghost.c
+	"head.h"
+
+1673799336 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\start_game.c
+	"head.h"
+
+1673803100 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\startfunc.c
+	"head.h"
+
+1673803310 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\main.c
+	"head.h"
+
+1673802264 source:d:\download\program\merged\allegroprojtest\allegroproj1.3\allegroproj1\allegroproj\monster_run.c
+	"head.h"
+
+1673716893 source:f:\allegroproj1.3\allegroproj1\allegroproj\click_button.c
+	"head.h"
+
+1673803094 f:\allegroproj1.3\allegroproj1\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:f:\allegroproj1.3\allegroproj1\allegroproj\draw_monster.c
+	"head.h"
+
+1673802392 source:f:\allegroproj1.3\allegroproj1\allegroproj\init_value.c
+	"head.h"
+
+1673803310 source:f:\allegroproj1.3\allegroproj1\allegroproj\main.c
+	"head.h"
+
+1673802264 source:f:\allegroproj1.3\allegroproj1\allegroproj\monster_run.c
+	"head.h"
+
+1673723117 source:f:\allegroproj1.3\allegroproj1\allegroproj\random_ghost.c
+	"head.h"
+
+1673799336 source:f:\allegroproj1.3\allegroproj1\allegroproj\start_game.c
+	"head.h"
+
+1673803100 source:f:\allegroproj1.3\allegroproj1\allegroproj\startfunc.c
+	"head.h"
+
+1673809450 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\click_button.c
+	"head.h"
+
+1673810529 d:\desktop\allegroproj1.5\allegroproj1\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\draw_monster.c
+	"head.h"
+
+1673811355 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\init_value.c
+	"head.h"
+
+1673811355 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\main.c
+	"head.h"
+
+1673811355 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\monster_run.c
+	"head.h"
+
+1673811355 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\random_ghost.c
+	"head.h"
+
+1673809825 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\start_game.c
+	"head.h"
+
+1673811030 source:d:\desktop\allegroproj1.5\allegroproj1\allegroproj\startfunc.c
+	"head.h"
+
+1673809450 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\click_button.c
+	"head.h"
+
+1673810529 d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\head.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1673696172 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\draw_monster.c
+	"head.h"
+
+1673811355 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\init_value.c
+	"head.h"
+
+1673812270 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\main.c
+	"head.h"
+
+1673812270 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\monster_run.c
+	"head.h"
+
+1673811355 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\random_ghost.c
+	"head.h"
+
+1673812270 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\start_game.c
+	"head.h"
+
+1673811030 source:d:\desktop\junior\computer program\cp_hw\allegro_final_game\allegroproj\startfunc.c
+	"head.h"
+

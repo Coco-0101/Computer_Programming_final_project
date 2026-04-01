@@ -1,0 +1,15 @@
+# logs
+*.log
+
+# Code::Blocks
+*.layout
+*.depend
+
+# build output
+bin/
+obj/
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db

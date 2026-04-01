@@ -63,7 +63,7 @@ int main(int argc, char **argv)
 
    /*BACKGROUND & SOUND EFFECTS*/
     ALLEGRO_SAMPLE* background = NULL;
-    background = al_load_sample("Hello.mp3"); // load the background sound file
+    background = al_load_sample("./audio/Hello.mp3"); // load the background sound file
     ALLEGRO_SAMPLE_INSTANCE *instance = al_create_sample_instance(background);
     al_set_sample_instance_playmode(instance, ALLEGRO_PLAYMODE_LOOP);
     al_attach_sample_instance_to_mixer(instance, al_get_default_mixer());
@@ -71,13 +71,13 @@ int main(int argc, char **argv)
     al_play_sample_instance(instance);
 
     ALLEGRO_SAMPLE* spell = NULL;
-    spell = al_load_sample("spell.wav");
+    spell = al_load_sample("./audio/spell.wav");
     ALLEGRO_SAMPLE_INSTANCE *ins_spell = al_create_sample_instance(spell);
     al_set_sample_instance_playmode(ins_spell, ALLEGRO_PLAYMODE_ONCE);
     al_attach_sample_instance_to_mixer(ins_spell, al_get_default_mixer());
 
     ALLEGRO_SAMPLE* die = NULL;
-    die = al_load_sample("die.wav");
+    die = al_load_sample("./audio/die.wav");
     ALLEGRO_SAMPLE_INSTANCE *ins_die = al_create_sample_instance(die);
     al_set_sample_instance_playmode(ins_die, ALLEGRO_PLAYMODE_ONCE);
     al_attach_sample_instance_to_mixer(ins_die, al_get_default_mixer());
